@@ -29,6 +29,13 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+// Make sure that the vertical scrollbar always appears
+// so that pages don't jump when they're not long enough, or too
+// long
+body {
+    overflow-y: scroll;
+}
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {

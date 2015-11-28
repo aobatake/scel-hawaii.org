@@ -1,0 +1,23 @@
+# Navigation
+
+- title: "Why SCEL"
+  href: "/WhySCEL"
+
+- title: "About"
+  href: "/about"
+  subcategories:
+      - subtitle: "Mission"
+        href: "/about/mission"
+      - subtitle: "Projects"
+        href: "/about/projects"
+      - subtitle: "Members"
+        href: "/about/members"
+
+- title: "Contact"
+  href: "/contact"
+
+- title: "Get Involved"
+  href: "/get-involved"
+
+- title: "Resources"
+  href: "/resources"

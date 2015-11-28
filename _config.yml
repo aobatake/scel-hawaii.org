@@ -11,7 +11,7 @@ email: scel@hawaii.edu
 description: > # this means to ignore newlines until "baseurl:"
     This is the website for the Smart Campus Energy Lab (SCEL). 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://scel-hawaii.org" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  scel-hawaii
 
