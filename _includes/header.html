@@ -14,8 +14,8 @@
       </a>
 
       <div class="trigger">
-      {% for dale in site.data.nav %}
-        <a href="{{ site.url }}{{ dale.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ dale.title }}<i class="fa fa-angle-down"></i></a>
+      {% for site in site.data.nav %}
+        <a href="{{ site.href }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ site.title }}<i class="fa fa-angle-down"></i></a>
       {% endfor %}
         <!--
           {% for my_page in site.pages %}
