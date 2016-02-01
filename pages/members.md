@@ -1,15 +1,9 @@
 ---
 layout: page
-permalink: /about/members/
+permalink: /members/
 title: Members
 show_in_nav: false
 ---
-**Things to Do**\\
-* Add past Members and what they are doing now\\
-* Add the following info:\\
-  * Pictures\\
-  * Position(s)
-
 <h1><b> Leadership Team </b></h1>
 
 <h4>Christie Obatake</h4>
