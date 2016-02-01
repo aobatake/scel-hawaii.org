@@ -4,8 +4,6 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-<h2>Steps to get involved</h2>
-
 It's easy to get involved with our lab! We are always looking for bright, 
 motivated, and enthusiastic students who are interested in our lab. The 
 following are the steps to follow to get involved:
