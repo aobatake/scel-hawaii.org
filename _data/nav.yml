@@ -1,23 +1,21 @@
 # Navigation
 
-- title: "Why SCEL"
-  href: "/WhySCEL"
+- title: "Home"
+  href: "/"
 
-- title: "About"
-  href: "/about"
-  subcategories:
-      - subtitle: "Mission"
-        href: "/about/mission"
-      - subtitle: "Projects"
-        href: "/about/projects"
-      - subtitle: "Members"
-        href: "/about/members"
+- title: "Resarch"
+  href: "/research"
+
+- title: "Education"
+  href: "/get-involved"
+
+- title: "Members"
+  href: "/members"
+
+- title: "Affiliates"
+  href: "/affiliates"
 
 - title: "Contact"
   href: "/contact"
 
-- title: "Get Involved"
-  href: "/get-involved"
-
-- title: "Resources"
-  href: "/resources"
+# Note: add publications later when we have that more organized.
