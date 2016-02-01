@@ -1,0 +1,23 @@
+{% for member in site.data.members %}
+{% if member.role == memberRole %}
+  <hr class="profile-divider">
+  <div>
+  <h2>{{member.name}}</h2>
+    <table>
+      <tr>
+        <td class="inline-profile-bio">
+          <p>{{member.bio}}</p>
+        </td>
+        <td class="inline-profile-wrapper">
+          {% if member.photo %}
+          <img src="{{member.photo}}" class="inline-profile-img"></img>
+          {% else %}
+          <img src="https://lh5.googleusercontent.com/-f9NnDNOP9ug/AAAAAAAAAAI/AAAAAAAAAJM/T9FAa21t57g/photo.jpg" class="inline-profile-img"></img>
+          {% endif %}
+          <p style="text-align:center"> <a href="{{member.linkedin}}" target="_blank">LinkedIn</a> </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+{% endif %}
+{% endfor %}
