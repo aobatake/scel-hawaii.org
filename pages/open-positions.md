@@ -4,9 +4,6 @@ title: "Open Positions"
 permalink: /open-positions/
 ---
 
-**Things to Do**\\
-* Add previous members
-
 The following are various positions in our lab, and the skills associated with 
 them. We do not expect students to possess all the skills listed for the 
 positions. As with any engineering project, you may not have knowledge of 

@@ -1,0 +1,26 @@
+.profile-img{
+    max-width:25%;
+    border: solid 1px black;
+}
+.profile-bio{
+  padding-left:10%;
+  padding-right:10%;
+}
+.profile{
+  text-align:center;
+}
+.inline-profile-bio{
+  padding-right:10%;
+}
+.inline-profile-wrapper{
+  width:150px;
+}
+.inline-profile-img{
+  border: solid 1px black;
+  min-height:100px;
+  min-width:100px;
+}
+
+.profile-divider{
+  padding:0px;
+}

@@ -1,0 +1,340 @@
+[
+{
+    "name":"Christie Obatake",
+    "role":"leader",
+    "photo":"https://media.licdn.com/media/AAEAAQAAAAAAAAQ6AAAAJDljNTQ1NjcyLTUwMzAtNGMzOC05ZGI4LTcwNmZiZWZhMDMxMg.jpg",
+    "position": "Project Manager",
+    "linkedin":"https://www.linkedin.com/pub/christie-obatake/b5/53/180",
+    "bio":"Christie Obatake is a senior majoring in computer engineering at the University of Hawaii at Manoa. She is currently the project manager of the Smart Campus Energy Lab and the Vice President of the Delta Omega chapter of Eta Kappa Nu, the electrical and computer engineering honors society. She has also previously interned at Northrop Grumman Aerospace Systems and worked on the Flight Software for the James Webb Space Telescope. Her academic interests are in programming, scripting, and algorithms. In her free time, she enjoys learning about Japanese language and culture."
+},
+{
+    "name":"Kenny Luong",
+    "role":"leader",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/201/16b/1bbe92c.jpg",
+    "position": "Integration and Software Lead",
+    "linkedin":"https://www.linkedin.com/in/kennyluong",
+    "bio":"Kenny Luong is currently a senior in Computer Engineering. He is currently the system engineer for the Smart Campus Energy Lab and was a former Chair for the IEEE student branch at the University of Hawaii at Manoa. He has previously done two co-op tours at Advanced Micro Devices (AMD) in Austin, TX doing BIOS and Firmware using large scale emulation. His academic interests include software engineering, web development and computer architecture."
+},
+{
+    "name":"Zachary Dorman",
+    "role":"leader",
+    "photo":"https://media.licdn.com/media/AAEAAQAAAAAAAAbHAAAAJDFmOTY3ZDM5LTUzNGUtNDg2Mi04ZGI3LWUyMjkyMGJmOWZlYg.jpg",
+    "position": "Technical Lead",
+    "linkedin":"https://www.linkedin.com/in/zachary-dorman-013bb9105",
+    "bio":"Kenny Luong is currently a senior in Computer Engineering. He is currently the system engineer for the Smart Campus Energy Lab and was a former Chair for the IEEE student branch at the University of Hawaii at Manoa. He has previously done two co-op tours at Advanced Micro Devices (AMD) in Austin, TX doing BIOS and Firmware using large scale emulation. His academic interests include software engineering, web development and computer architecture."
+},
+{
+    "name":"Jonathan Liang",
+    "role":"mentor",
+    "position": "Hardware Mentor",
+    "linkedin":"https://www.linkedin.com/in/jonathan-liang-12501b83",
+    "bio":"Jonathan Liang is currently a senior in Electrical Engineering - Electrophysics Track. He is the founder of the University of Hawaii’s Drone Technologies Program and is currently interning at Spectrum Photonics, where he develops electrical hardware used in hyperspectral imaging systems for chemical, biological, explosives, and narcotics detection. His interests include hardware development, electrical power systems, and systems integration."
+},
+{
+    "name":"Jason Tanabe",
+    "role":"mentor",
+    "position": "Software Mentor",
+    "linkedin": "https://www.linkedin.com/in/jason-tanabe-47ab02a4",
+    "bio":"Jason Tanabe is a senior in computer engineering at the University of Hawaii at Manoa. He is interested in all types of programming. In his free time he enjoys to eat and sleep."
+},
+{
+    "name": "Kristie Lee",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Kristie Lee is a senior majoring in electrical engineering (electro-physics) at the University of Hawaii at Manoa. She is currently an active member of the Society of Women Engineers, as well as Recording Secretary of Eta Kappa Nu. Her academic interests are in electromagnetics. Outside of school, she enjoys being around dogs, arts and crafts, and playing board games."
+},
+{
+    "name": "Daisy Green",
+    "role": "mentor",
+    "linkedin": 0,
+    "bio": "Daisy Green is a senior majoring in Electrical Engineering in the electro-physics track. Her academic interests include the renewable energy field and electromagnetics. Her hobbies include playing tennis and going on hikes."
+},
+{
+    "name": "Raegan Diana",
+    "role": "alumni",
+    "linkedin": "https://www.linkedin.com/pub/raegan-diana/aa/430/9b1",
+    "bio": "Raegan Diana is a senior majoring in Computer Engineering at the University of Hawaii at Manoa.  She is also a member of the IEEE student branch at the university.  She previously worked with the County of Kauai working on various software projects.  Her academic interests include algorithms, programming, and working on FPGAs or Arduinos.  During her free time, Raegan enjoys playing a variety of video games, reading, drawing, and reviewing/learning Japanese language."
+},
+{
+    "name": "May Chen",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "May Chen is a senior majoring in electrical engineering with a focus in electro-physics at the University of Hawai'i at Manoa. She is currently the Corresponding Secretary of the Delta Omega Chapter of Eta Kappa Nu. Her academic interests are in microelectronics, electromagnetics, renewable energy, and health technology. Some of her hobbies include running, hiking, photography, and traveling."
+},
+{
+    "name": "Michele Shimoda",
+    "role": "alumni",
+    "linkedin": "https://www.linkedin.com/pub/michele-shimoda/b0/8/226",
+    "bio": "Michele Shimoda is a senior majoring in Computer Engineering at the University of Hawaii at Manoa.  She is a member of the Smart Campus Energy Lab with interests in programming and web development. Currently, she is serving as the IEEE Student Branch Chair, on the board of the Engineer's Council at the University of Hawaii, and a student director for the Engineering Alumni Association of the University of Hawaii. Her interests outside of school include music, concerts, and travel."
+},
+{
+    "name": "Scott Nakashima",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Scott Nakashima is currently a senior in Computer Engineering. His academic interests range from learning programming, cyber security, and web development. In his free time he enjoys researching things of his interest and playing computer games."
+},
+{
+    "name": "Ryan M K Walser",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Ryan M K Walser is a senior majoring in computer engineering at the University of Hawaii at Manoa.  He is currently the Pledge Master for the Delta Omega chapter of Eta Kappa Nu, the electrical and computer engineering honor society.  Ryan has a stronger preference towards software engineering, but still has an interest in hardware.  He enjoys learning new programming languages and wishes to pursue his interest in cyber security.  In his free time, he enjoys playing tennis and going hiking."
+},
+{
+    "name": "Brandon Amano",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Brandon S. Amano is a senior pursuing a bachelor's degree in electrical engineering at the University of Hawaii at Manoa.  His academic interests have steered him towards the electro-physics track, with a particular specialty in hardware, digital, circuit, and PCB design.  He is currently a hardware engineer for the Smart Campus Energy Lab and is the President of the Delta Omega chapter of IEEE-Eta Kappa Nu (HKN).  His hobbies include gardening, hiking, biking, and traveling."
+},
+{
+    "name": "Brian Chan",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Brian Chan is currently a senior majoring in Electrical Engineering at the University of Hawaii at Manoa. He has previously done an internship with Northrop Grumman in El segundo, CA supporting System Engineers and developing tools for data processing. His academic interests include PCB design, CAD, Microwaves and Antennas."
+},
+{
+    "name": "Kim Pee Castro",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Kim Pee Castro is a senior majoring in electrical engineering at the University of Hawaii at Manoa. He is currently the IEEE representative of the Delta Omega chapter of Eta Kappa Nu, the electrical and computer engineering honor society. He previously interned for the Systems Verification Center at Raytheon Space and Airborne Systems division, performing testing and checkout of processor modules and special test equipment. His academic interests include programming, electronic power systems, and FPGA test and design. Outside of academics, he enjoys browsing Reddit and PC gaming."
+},
+{
+    "name": "Garrett Young",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Garrett Z H Young is a senior studying Electrical Engineering at the University of Hawaii at Manoa. He is currently on the Micromouse Executive Committee. He interned at Raytheon this past summer, simulating antenna radiation patterns using HFSS. His academic interests are in digital signal processing, logic design, and microwaves. Outside of engineering, he plays in the UH Marching Band and enjoys traveling."
+},
+{
+    "name": "Ernesto Lorenzo",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Ernesto Lorenzo is a senior major in Electrical Engineering with a focus in Electrophysics at the University of Hawaii at Manoa. His academic interests  are in circuit design and renewable energy. His non-academic interests include basketball, hiking, and reading."
+},
+{
+    "name": "Tyrin-Neal Besas",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Tyrin-Neal Besas is junior majoring in Electrical Engineering with interest in the electro-physics track. He might change to the systems track; however, his academic interests involve designing and constructing circuits. He also likes the critical thinking processes of programming and enjoys mathematics. During his free time, Tyrin-Neal likes to play the ukulele, go to the beach, go to the gym, and hangout with his friends."
+},
+{
+    "name": "Keoni Davey",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Keoni Davey is a senior at the University of Hawaii at Manoa, majoring in the systems track of Electrical Engineering. He puts his academic interests of programming and digital signals to practical use in the Smart Campus Energy Lab. A former member of the debate team, he now spends his free time discussing world events and international relations."
+},
+{
+    "name": "Travis Tanaka",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Travis Tanaka is a senior studying electrical engineering at the University Hawaii at Manoa. He is currently the bridge correspondent of the Delta Omega chapter of Eta Kappa Nu, the electrical and computer engineering honors society. His academic interests include circuit design and electromagnetics. During his free time, he enjoys playing video games."
+},
+{
+    "name": "Raydan Bala",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Raydan Bala is a senior majoring in electrical engineering at the University of Hawaii at Manoa. His academic interests are electrical power systems and circuits. In his spare time he likes to play piano, go to the gym and compete in sports."
+},
+{
+    "name": "Jonathan Liang",
+    "role": "member",
+    "linkedin": "https://www.linkedin.com/pub/jonathan-liang/83/1b/125",
+    "bio": "Jonathan Liang is currently a senior in Electrical Engineering - Electrophysics Track.  He is the founder of the University of Hawaii's Drone Technologies Program and is currently interning at Spectrum Photonics, where he develops electrical hardware used in hyperspectral imaging systems for chemical, biological, explosives, and narcotics detection.  His interests include hardware development, electrical power systems, and systems integration."
+},
+{
+    "name": "Tryston Fagarang",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Tryston Fagarang is currently a junior majoring in Electrical Engineering, electro-physics track, at University of Hawaii at Manoa. He is starting his first semester with the Smart Campus Energy Lab and is also the Fundraising Chair for IEEE student branch at the University of Hawaii at Manoa. He has previously spent a semester designing and building a micromouse for his EE296 project.  His academic interest include in hardware design and fabrication."
+},
+{
+    "name": "Jeremy Garcia",
+    "role": "mentor",
+    "linkedin": 0,
+    "bio": "Jeremy Garcia is a senior majoring in Electrical Engineering with a track in systems at the University of Hawaii at Manoa. His academic interests are in signal analysis and mathematics with recent focuses in networking. Personal hobbies of mine include anime, puzzles and Nintendo games."
+},
+{
+    "name": "Savath Saepoo",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Savath Saepoo is a senior at the University of Hawai'i majoring in Electrical Engineering Electro-Physics Track.  He has previously interned at Northrop Grumman Aerospace Systems in Redondo Beach, CA working on the Advance Mission Program specializing in space/satellite RF electronics and MMICs.  His academic interests are embedded hardware, programming, and cybersecurity.  In his spare time, he enjoys swimming, diving, exercising, exploring new things and eating."
+},
+{
+    "name": "Makiko Kuwahara",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Makiko Kuwahara is a junior in Electrical Engineering, she will be a senior in Spring. Her academic interests are mathematics and anything related to it. She is from Tokyo, Japan. However, her mother currently lives in Yamaguchi."
+},
+{
+    "name": "Jaimie Obatake",
+    "role": "member",
+    "linkedin": "https://www.linkedin.com/in/jaimie-obatake-aa6a24107",
+    "bio": "Jaimie Obatake is a sophomore studying electrical engineering at the University of Hawaii at Manoa. She has interests in biomedical engineering and designing sustainable products. She works as a student research assistant in a biological engineering lab, programming an incubator to grow E. coli cultures. During her leisure time, she enjoys baking, cooking, and reading."
+},
+{
+    "name": "Austin Tasato",
+    "role": "member",
+    "linkedin": "www.linkedin.com/in/aytasato",
+    "bio": "Austin Tasato is a junior in Computer Engineering. He is a member of the Forecasting team which analyzes weather data and makes predictions. He also works at the UH Cancer Cancer center developing a workflow application for single-celled RNA sequencing data analysis with the statistical programming language R. His academic interests include static analysis and design of programming languages, artificial intelligence, and computer architecture."
+},
+{
+    "name": "Nathan Lam",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Nathan Lam is a sophomore majoring in computer engineering at the University of Hawaii at Manoa. His academic interests include programming and web development. In his free time, he enjoys playing video games and body-boarding."
+},
+{
+    "name": "Andrew Obatake",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Andrew Obatake is a sophomore in Computer Engineering at the University of Hawaii at Manoa. He is a current member of the EE Student Advisory Board and UH Drone Tech. Academic interests include programming, web development, and app development. Andrew enjoys eating local foods and playing tennis on his free time."
+},
+{
+    "name": "Michael Leong",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Michael Leong is a junior majoring in the Electro-Physics track of Electrical Engineering at the University of Hawaii at Manoa. His academic interests include circuit building and debugging. Other interests include playing basketball, volleyball and learning about Hawaiian culture."
+},
+{
+    "name": "John William Carpenter",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "John William Carpenter is a Sophomore majoring in Electrical Engineering/Systems Track at the University of Hawai'i at Manoa. He is a member of the Native Hawaiian Science and Engineering Mentorship program(NHSEMP). He has interests in Math and Physics. When taking a break from school he likes to go to the beach and also play video games on occasion."
+},
+{
+    "name": "Keane Hamamura",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Keane Hamamura is currently a sophomore majoring in electrical engineering at the University of Hawaii at Mānoa. This is his first year in the smart campus energy lab. His academic interests include programming and circuit design. In his spare time, he likes to play ukulele and also teaches others That want to learn."
+},
+{
+    "name": "Tyler Yamauchi",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Tyler Yamauchi is a Sophomore Electrical Engineering major planning to go into the systems track. His academic interests include programming and mathematics. Outside of engineering he enjoys being in the Manoa Marching Band program and Concert band."
+},
+{
+    "name": "Gordon Li",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Gordon Li is a sophomore majoring in Electrical Engineering, planning to pursue the Electrophysics track. His academic interests include designing, programming, and mathematics. With his interest in helping others, he works as a tutor for an upcoming community project and volunteers as a mentor for his high school’s math team."
+},
+{
+    "name": "Kyaw Hein",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Kyaw Hein is a sophomore planning to major in Electrical Engineering at the University of Hawaii at Manoa. He developed an interest in electric circuits and analysis after recently taken the Basic Circuit Analysis I course. His hobbies are reading, watching soccer and playing video games."
+},
+{
+    "name": "Cristina Felicitas",
+    "role": "member",
+    "linkedin": "https://www.linkedin.com/in/cfelicitas",
+    "bio": "Cristina Felicitas is a senior majoring in electrical engineering with a focus in electro-physics. She is currently the Vice Chair of the IEEE Student Branch at the University of Hawaii at Manoa.  She has participated in study abroad for a summer in Lille, France and previously done an internship at Northrop Grumman in Redondo Beach, CA.  Her academic interests are in electromagnetics and hardware design/fabrication.  In her free time, she enjoys traveling and playing with cats."
+},
+{
+    "name": "Brianne Yamada",
+    "role": "member",
+    "linkedin": "www.linkedin.com/in/briyamada",
+    "bio": "Brianne Yamada is a senior majoring in Mechanical Engineering at University of Hawaiʻi at Mānoa. She currently serves as the VP of Internal Affairs for ECUH, VP of Membership for the Society of Women Engineers (SWE) and the Events Coordinator for the mechanical engineering honor society, Pi Tau Sigma. Her interests include thermodynamics and  renewable energy."
+},
+{
+    "name": "Allie Kim",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Allie Kim is a junior in Computer Engineering. Her academic interests include programming and embedded software. In her free time, she enjoys sleeping, eating and hiking."
+},
+{
+    "name": "Katherine Shun-Gilmour",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Katherine Shun-Gilmour is a Sophomore pursuing a degree in Electrical Engineering at the University of Hawaii at Manoa. She is currently the corresponding secretary for the Society of Women Engineers and the public relations officer for the American Indian Science and Engineering Society. Her academic interests are in renewable energy. She enjoys hiking, going to the beach and adventuring in her free time."
+},
+{
+    "name": "Scott Nishihara",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Scott is currently a Junior majoring in Electrical Engineering.  His academic interests include grid integration of renewable energy sources and database management. In his free time, he likes to go hiking, play tennis, and sleep."
+},
+{
+    "name": "Dylan Tokita",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Dylan Tokita is currently a Sophomore in Electrical Engineering. His academic interests include programming and math."
+},
+{
+    "name": "Kevin Wong",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Kevin Wong is a sophomore majoring in Electrical Engineering at the University of Hawaii at Manoa.  His academics interest is in programming.  On his free time he likes to read manga, watch anime, and to build things like tables."
+},
+{
+    "name": "Jennifer Chun",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Jennifer Chun is currently a sophomore in Computer Engineering at the University of Hawaii at Manoa. Her academic interests include programming and math. For fun she likes to read books and go on hikes."
+},
+{
+    "name": "Cyrus Noveloso",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Cyrus Noveloso is currently a freshman majoring in electrical engineering.  He is currently working in the Smart Campus Energy Lab for his EE196 project and is an associate board member of IEEE for students at the University of Hawaii at Manoa.  He is interested in programming, circuits and robotics fields.  He enjoys researching and keeping up to date with new technology."
+},
+{
+    "name": "Emily Lum",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Emily Lum is a sophomore majoring in computer engineering at the University of Hawaii at Manoa. Her academic interests include programming. In her free time, she enjoys playing video games."
+},
+{
+    "name": "Kyle Chan",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Kyle Chan is a freshman majoring in Electrical Engineering. His academic interests include programming and board design. When he's not in school, Kyle enjoys exercising and helping out his high school robotics team."
+},
+{
+    "name": "Alex Noveloso",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Alex Noveloso is currently a freshman majoring in Electrical Engineering at the University of Hawaii at Mānoa.  His academic interests include programming and chemistry.  In his free time, he enjoys learning about astronomy and hanging out with friends."
+},
+{
+    "name": "Janiene Scovell",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "I am currently a Sophomore in Electrical Engineering. I am interested in working with renewable energy and sustainability. I tutor math at UH's Learning Assistance Center. Academically, I enjoy learning about math, programming, and hardware. In my free time, I like to listen to music and dance."
+},
+{
+    "name": "Brianne Tengan",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Brianne Tengan is currently a freshman majoring in Electrical Engineering. Her academic interests include circuits and circuit analysis. In her free time she enjoys hiking and playing video games."
+},
+{
+    "name": "Kenny-Lee Fujioka",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Kenny is a sophomore majoring in Electrical Engineering and currently enrolled in the the SPRING 2016 semester.  He loves to work with circuits and programming.  In his free time he likes to tinker on his computer and go the the UH rec center to play basketball and workout."
+},
+{
+    "name": "Demosthenes Kaeo Villa",
+    "role": "member",
+    "linkedin": "https://www.linkedin.com/in/demosthenesvilla",
+    "bio": "Demosthenes Kaeo Villa is currently a junior in electrical engineering on the electro-physics track. He is currently a member of the IEEE student branch executive board and serves as the Associate Board Co-chair. His academic interests include power systems and systems communications. In his free time, he likes to cook and hang out with his friends."
+},
+{
+    "name": "Tim Byers",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Tim Byers is currently a junior majoring in Computer Engineering at the University of Hawaii at Manoa. His academic interests include programming and software development.  In his free time he enjoys playing basketball and watching movies."
+},
+{
+    "name": "Andy Pham",
+    "role": "mentor",
+    "linkedin": "https://www.linkedin.com/in/andy-pham-300a0437",
+    "bio": "Andy Pham\n\nEducations:\nM.S. EE, UH Manoa 2015\nB.S. EE, UH Manoa 2012\n\nCareers:\nRaytheon Space & Airborne Systems, El Segundo, CA 2015 - Present\n\nHobbies:\nSurfing, watch engineering shows, and finding new restaurants to eat\n\nFavorite Quote:\nComing together is a beginning; keeping together is progress; working together is success."
+},
+{
+    "name": "Xen Huang",
+    "role": "member",
+    "linkedin": 0,
+    "bio": "Xen Huang is a senior majoring in electrical engineering at the University of Hawaii at Manoa. He focuses on the system's track. His academic interests are communication and programming. Outside of school, he likes to play basketball as his weekly exercise."
+}]
+
